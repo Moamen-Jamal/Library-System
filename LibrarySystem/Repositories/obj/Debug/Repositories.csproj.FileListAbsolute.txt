@@ -1,0 +1,17 @@
+D:\Visual\Library System\LibrarySystem\Repositories\bin\Debug\Repositories.dll.config
+D:\Visual\Library System\LibrarySystem\Repositories\bin\Debug\Repositories.dll
+D:\Visual\Library System\LibrarySystem\Repositories\bin\Debug\Repositories.pdb
+D:\Visual\Library System\LibrarySystem\Repositories\bin\Debug\Entities.dll
+D:\Visual\Library System\LibrarySystem\Repositories\bin\Debug\EntityFramework.dll
+D:\Visual\Library System\LibrarySystem\Repositories\bin\Debug\EntityFramework.SqlServer.dll
+D:\Visual\Library System\LibrarySystem\Repositories\bin\Debug\Entities.pdb
+D:\Visual\Library System\LibrarySystem\Repositories\bin\Debug\Entities.dll.config
+D:\Visual\Library System\LibrarySystem\Repositories\bin\Debug\EntityFramework.xml
+D:\Visual\Library System\LibrarySystem\Repositories\bin\Debug\EntityFramework.SqlServer.xml
+D:\Visual\Library System\LibrarySystem\Repositories\obj\Debug\Repositories.csprojAssemblyReference.cache
+D:\Visual\Library System\LibrarySystem\Repositories\obj\Debug\Repositories.csproj.CoreCompileInputs.cache
+D:\Visual\Library System\LibrarySystem\Repositories\obj\Debug\Repositories.csproj.CopyComplete
+D:\Visual\Library System\LibrarySystem\Repositories\obj\Debug\Repositories.dll
+D:\Visual\Library System\LibrarySystem\Repositories\obj\Debug\Repositories.pdb
+D:\Visual\Library System\LibrarySystem\Repositories\obj\Debug\Repositories.Migrations.Init.resources
+D:\Visual\Library System\LibrarySystem\Repositories\obj\Debug\Repositories.csproj.GenerateResource.cache

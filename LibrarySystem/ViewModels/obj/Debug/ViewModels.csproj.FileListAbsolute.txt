@@ -1,0 +1,12 @@
+D:\Visual\Library System\LibrarySystem\ViewModels\bin\Debug\ViewModels.dll
+D:\Visual\Library System\LibrarySystem\ViewModels\bin\Debug\ViewModels.pdb
+D:\Visual\Library System\LibrarySystem\ViewModels\bin\Debug\Entities.dll
+D:\Visual\Library System\LibrarySystem\ViewModels\bin\Debug\EntityFramework.dll
+D:\Visual\Library System\LibrarySystem\ViewModels\bin\Debug\Entities.pdb
+D:\Visual\Library System\LibrarySystem\ViewModels\bin\Debug\Entities.dll.config
+D:\Visual\Library System\LibrarySystem\ViewModels\bin\Debug\EntityFramework.xml
+D:\Visual\Library System\LibrarySystem\ViewModels\obj\Debug\ViewModels.csprojAssemblyReference.cache
+D:\Visual\Library System\LibrarySystem\ViewModels\obj\Debug\ViewModels.csproj.CoreCompileInputs.cache
+D:\Visual\Library System\LibrarySystem\ViewModels\obj\Debug\ViewModels.csproj.CopyComplete
+D:\Visual\Library System\LibrarySystem\ViewModels\obj\Debug\ViewModels.dll
+D:\Visual\Library System\LibrarySystem\ViewModels\obj\Debug\ViewModels.pdb

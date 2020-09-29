@@ -1,0 +1,17 @@
+D:\Visual\Library System\LibrarySystem\Services\bin\Debug\Services.dll
+D:\Visual\Library System\LibrarySystem\Services\bin\Debug\Services.pdb
+D:\Visual\Library System\LibrarySystem\Services\bin\Debug\Entities.dll
+D:\Visual\Library System\LibrarySystem\Services\bin\Debug\Repositories.dll
+D:\Visual\Library System\LibrarySystem\Services\bin\Debug\ViewModels.dll
+D:\Visual\Library System\LibrarySystem\Services\bin\Debug\EntityFramework.dll
+D:\Visual\Library System\LibrarySystem\Services\bin\Debug\Entities.pdb
+D:\Visual\Library System\LibrarySystem\Services\bin\Debug\Entities.dll.config
+D:\Visual\Library System\LibrarySystem\Services\bin\Debug\Repositories.pdb
+D:\Visual\Library System\LibrarySystem\Services\bin\Debug\Repositories.dll.config
+D:\Visual\Library System\LibrarySystem\Services\bin\Debug\ViewModels.pdb
+D:\Visual\Library System\LibrarySystem\Services\bin\Debug\EntityFramework.xml
+D:\Visual\Library System\LibrarySystem\Services\obj\Debug\Services.csprojAssemblyReference.cache
+D:\Visual\Library System\LibrarySystem\Services\obj\Debug\Services.csproj.CoreCompileInputs.cache
+D:\Visual\Library System\LibrarySystem\Services\obj\Debug\Services.csproj.CopyComplete
+D:\Visual\Library System\LibrarySystem\Services\obj\Debug\Services.dll
+D:\Visual\Library System\LibrarySystem\Services\obj\Debug\Services.pdb
